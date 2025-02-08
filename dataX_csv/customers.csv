@@ -1,0 +1,5 @@
+customer_id,name,city,email
+1,Alice,Metropolis,alice@example.com
+2,Bob,Gotham,bob@example.com
+3,Charlie,Star City,charlie@example.com
+4,Alice,Metropolis,alice.dup@example.com

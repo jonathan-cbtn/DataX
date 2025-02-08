@@ -1,0 +1,4 @@
+return_id,order_id,robot_id,return_reason,refund_amount
+100,5001,101,Defective,2000
+101,5002,101,UserError,2000
+102,5003,102,Defective,500
