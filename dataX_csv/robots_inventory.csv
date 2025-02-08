@@ -1,4 +1,4 @@
 robot_id,robot_model,category,weight,weight_unit,price
-101,RoboMasterX,Advanced,5,kg,2000
-102,RoboJunior,Standard,2,kg,500
+101,RoboX,Advanced,5,kg,2000
+102,RoboJr,Standard,2,kg,500
 103,RoboDrone,Standard,3,lbs,300
